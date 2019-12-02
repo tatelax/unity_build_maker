@@ -1,6 +1,6 @@
 {
     "name": "Unity.BuildMaker.Editor",
-    "references": [],
+    "references": ["Unity.Addressables.Editor"],
     "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
