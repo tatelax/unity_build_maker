@@ -17,7 +17,7 @@
         "Sirenix.Serialization.dll",
         "Sirenix.Utilities.Editor.dll",
         "Sirenix.Serialization.Config.dll,
-        "Unity.Addressables"
+        "Unity.Addressables.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": []
