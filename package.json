@@ -1,6 +1,7 @@
 {
   "name": "com.apexsoftworks.buildmaker",
   "version": "1.0.0",
+  "unity": "2018.4",
   "displayName": "Build Maker",
   "description": "This tool allows you to create builds using several different build profiles",
   "keywords": [
