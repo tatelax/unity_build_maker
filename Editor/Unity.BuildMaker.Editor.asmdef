@@ -14,7 +14,7 @@
         "Sirenix.OdinInspector.Attributes.dll",
         "Sirenix.Serialization.dll",
         "Sirenix.Utilities.Editor.dll",
-        "Sirenix.Serialization.Config.dll,
+        "Sirenix.Serialization.Config.dll",
         "Unity.Addressables.dll"
     ],
     "autoReferenced": true,
