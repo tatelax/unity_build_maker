@@ -8,7 +8,5 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [
-        "Unity.Addressables"
-    ]
+    "defineConstraints": []
 }
