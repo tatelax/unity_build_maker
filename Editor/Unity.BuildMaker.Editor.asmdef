@@ -1,6 +1,10 @@
 {
     "name": "Unity.BuildMaker.Editor",
-    "references": ["Unity.Addressables.Editor"],
+    "references": [
+      "Unity.Addressables.Editor",
+      "Sirenix.OdinInspector",
+      "Sirenix.OdinInspector.Editor"
+      ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
